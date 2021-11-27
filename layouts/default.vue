@@ -7,6 +7,8 @@
         p-3
         backdrop-filter backdrop-blur-md
         bg-graph bg-opacity-30
+        dark:bg-opacity-30
+      
         flex flex-col
         sm:flex-row
       "
