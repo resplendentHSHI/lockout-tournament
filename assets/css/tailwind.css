@@ -3,5 +3,17 @@
 @tailwind utilities;
 
 .container {
-    @apply px-5;
+    @apply px-5;;
 }
+
+
+.bg-base {
+    @apply bg-gray-100 dark:bg-gray-800 dark:text-white;
+}
+
+@variants hover, focus {
+    .text-red {
+        @apply text-red-700 dark:text-red-500;
+    }
+
+}   
