@@ -1,7 +1,7 @@
-<!-- ---
+---
 title: Welcome!
 description: ''
---- -->
+---
 
 # Gunn Mathematics Competition
 
