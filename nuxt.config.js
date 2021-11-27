@@ -46,6 +46,19 @@ export default {
   pwa: {
     manifest: {
       lang: 'en'
+    },
+    meta:{
+      name:'Gunn Math Competition',
+      description:'',
+      theme_color:'#BF1A19',
+      ogHost:'https://compete.gunnmathcircle.org',
+      twitterCard:'summary_large_image',
+      ogImage:{
+        path:'/embed-photo-large.png',
+        width:'1200',
+        height:'675',
+        type:'image/png'
+      }
     }
   },
 
