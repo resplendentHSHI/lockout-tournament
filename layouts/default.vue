@@ -66,12 +66,12 @@
           {{ link }}
         </a>
         <div class="flex flex-row my-auto" id="social-icons">
-          <a class="mx-2 my-auto" href="https://gunnmathcircle.org"><home-icon class="h-5 w-auto" /></a>
-          <a class="my-auto " href='http://discord.gg/4HZtKwP'>
+          <a target="_blank" class="mx-2 my-auto" href="https://gunnmathcircle.org"><home-icon class="h-5 w-auto" /></a>
+          <a target="_blank" class="my-auto " href='http://discord.gg/4HZtKwP'>
             <img class="w-auto dark:hidden mx-2 h-6" src="/Discord-Logo-Black.png" />
             <img class="w-auto hidden dark:inline-block mx-2 h-6" src="/Discord-Logo-White.png" />
           </a>
-          <a class="mb-1 " href="https://github.com/GunnMath">
+          <a target="_blank" class="mb-1 " href="https://github.com/GunnMath">
             <img class="w-auto my-auto dark:hidden mx-2 h-5" src="/GitHub-Mark-120px-plus.png" />
             <img class="w-auto hidden my-auto dark:inline-block mx-2 h-5" src="/GitHub-Mark-Light-120px-plus.png" />
           </a>
