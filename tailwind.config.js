@@ -61,7 +61,9 @@ module.exports = {
             code: {
               color: theme('colors.gray.100'),
             },
-
+            th: {
+              color: theme('colors.gray.100'),
+            },
             figcaption: {
               color: theme('colors.gray.100'),
             },
