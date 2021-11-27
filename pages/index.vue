@@ -1,7 +1,7 @@
 <template>
-  <div class="container">
-    <h1 class="text-2xl inline-block font-bold my-2 text-black">{{doc.title}}</h1>
-    <nuxt-content :document="doc" />
+  <div class="prose prose-red mx-auto">
+    <h1 class="">{{doc.title}}</h1>
+    <nuxt-content  :document="doc" />
   </div>
 </template>
 
