@@ -1,6 +1,6 @@
 ---
 title: Welcome!
-description: "Gunn\'s first annual mathematics competition, hosted by dedicated high shcool students."
+description: "Gunn's first annual mathematics competition, hosted by dedicated high shcool students."
 
 ---
 
