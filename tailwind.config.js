@@ -6,12 +6,75 @@ module.exports = {
     './plugins/**/*.{js,ts}',
     './nuxt.config.{js,ts}',
   ],
-  darkMode: 'class', // or 'media' or 'class'
+  darkMode: 'media', // or 'media' or 'class'
   theme: {
-    extend: {},
+
+    extend: {
+      typography: (theme) => ({
+        default: {
+          css: {
+            color: theme('colors.gray.900'),
+
+            a: {
+              color: theme('colors.red.600'),
+              '&:hover': {
+                color: theme('colors.red.700'),
+              },
+            },
+
+          },
+        },
+
+        dark: {
+          css: {
+            color: theme('colors.gray.100'),
+
+            a: {
+              color: theme('colors.red.600'),
+              '&:hover': {
+                color: theme('colors.red.700'),
+              },
+            },
+            h1: {
+              color: theme('colors.gray.100'),
+            },
+            h2: {
+              color: theme('colors.gray.100'),
+            },
+            h3: {
+              color: theme('colors.gray.100'),
+            },
+            h4: {
+              color: theme('colors.gray.100'),
+            },
+            h5: {
+              color: theme('colors.gray.100'),
+            },
+            h6: {
+              color: theme('colors.gray.100'),
+            },
+
+            strong: {
+              color: theme('colors.gray.100'),
+            },
+
+            code: {
+              color: theme('colors.gray.100'),
+            },
+
+            figcaption: {
+              color: theme('colors.gray.100'),
+            },
+          },
+        },
+      }),
+    },
   },
   variants: {
-    extend: {},
+    typography: ["dark"],
+    extend: {
+      display: ["dark"]
+    },
   },
   plugins: [
     require('@tailwindcss/typography')
