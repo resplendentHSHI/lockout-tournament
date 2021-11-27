@@ -3,8 +3,6 @@ title: Welcome!
 description: ''
 ---
 
-# Gunn Mathematics Competition
-
 Welcome to Gunn High School's first annual mathematics competition! It will be held **virtually** sometime in February.
 
 ## About
