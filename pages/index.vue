@@ -1,5 +1,5 @@
 <template>
-  <div class="prose prose-red mx-auto">
+  <div class="prose prose-red mx-auto max-w-lg">
     <h1 class="">{{doc.title}}</h1>
     <nuxt-content  :document="doc" />
   </div>
