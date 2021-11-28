@@ -63,7 +63,7 @@
           "
           :key="link"
           :href="'/#' + link"
-          v-for="link of ['home', 'about', 'schedule', 'staff', 'sponsors']"
+          v-for="link of ['home', 'about', 'format', 'staff', 'sponsors']"
         >
           {{ link }}
         </a>
