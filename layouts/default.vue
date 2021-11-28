@@ -1,5 +1,5 @@
 <template>
-  <div class="min-h-screen bg-base bg-graph w-screen">
+  <div class="min-h-screen bg-fixed bg-base bg-graph w-screen">
     <nav
       class="
         sticky
