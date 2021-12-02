@@ -1,9 +1,8 @@
 ---
 title: Welcome!
-description: ''
----
+description: "Gunn's first annual mathematics competition, hosted by dedicated high shcool students."
 
-# Gunn Mathematics Competition
+---
 
 Welcome to Gunn High School's first annual mathematics competition! It will be held sometime in February.
 
@@ -29,9 +28,9 @@ The format is loosely as follows (it's the same for both divisions A and B):
 
 The Individual and Team Rounds are fairly standard. However, in the Guts Round, problems are released in sets of 3. Students must submit answers to the problems in each set before moving on to the next set.
 
-<!-- ## Staff
-A huge thanks to our dedicated staff, who are working to put together problems and logistics:
- -->
+ ## Staff
+A huge thanks to our dedicated staff, who are working to put together problems and logistics!
+ 
 
 ## Sponsors
 

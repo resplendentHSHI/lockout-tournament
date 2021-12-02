@@ -1,5 +1,5 @@
 <template>
-  <div class="min-h-screen bg-base bg-graph w-screen">
+  <div class="min-h-screen bg-fixed bg-base bg-graph w-screen">
     <nav
       class="
         sticky
@@ -7,16 +7,18 @@
         p-3
         backdrop-filter backdrop-blur-md
         bg-graph bg-opacity-30
+        dark:bg-opacity-30
+      
         flex flex-col
-        sm:flex-row
+        md:flex-row
       "
     >
-      <a class="mx-auto flex flex-col sm:flex-row sm:flex-grow">
+      <a class="mx-auto flex flex-col md:flex-row md:flex-grow">
         <menu-icon
           @click="menu = !menu"
           class="
             absolute
-            sm:hidden
+            md:hidden
             top-6
             cursor-pointer
             text-black
@@ -25,47 +27,47 @@
             stroke-current
           "
         />
-        <img class="h-8 mx-auto my-auto sm:mr-3 sm:ml-2 w-8" src="/icon.png" />
+        <img class="h-8 mx-auto my-auto md:mr-3 md:ml-2 w-8" src="/icon.png" />
         <span class="text-red my-2 block text-2xl font-bold tracking-wide"
           >Gunn Math Competition</span
         >
       </a>
       <div
-        :class="menu ? 'max-h-96' : 'max-h-0 sm:max-h-full'"
+        :class="menu ? 'max-h-96' : 'max-h-0 md:max-h-full'"
         class="
           flex
-          sm:justify-end
+          md:justify-end
           transition-all
           ease-in-out
           duration-300
           transform
           overflow-hidden
           origin-top
-          sm:my-auto
+          md:my-auto
           flex-col
-          sm:flex-grow sm:flex-row
+          md:flex-grow md:flex-row
         "
       >
         <a
           class="
             font-mono
-            sm:my-auto
+            md:my-auto
             block
             mx-auto
-            sm:mx-5
+            md:mx-2
             text-center
-            sm:text-right
+            md:text-right
             text-black
             dark:text-white
             hover:text-red hover:underline
           "
           :key="link"
           :href="'/#' + link"
-          v-for="link of ['home', 'about', 'schedule', 'staff', 'sponsors']"
+          v-for="link of ['home', 'about', 'format', 'staff', 'sponsors']"
         >
           {{ link }}
         </a>
-        <div class="flex flex-row my-auto" id="social-icons">
+        <div class="flex flex-row md:my-auto mx-auto my-3 md:mr-3 md:ml-16 " id="social-icons">
           <a target="_blank" class="mx-2 my-auto" href="https://gunnmathcircle.org"><home-icon class="h-5 w-auto" /></a>
           <a target="_blank" class="my-auto " href='http://discord.gg/4HZtKwP'>
             <img class="w-auto dark:hidden mx-2 h-6" src="/Discord-Logo-Black.png" />
