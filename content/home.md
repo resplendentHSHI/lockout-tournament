@@ -5,7 +5,9 @@ description: ''
 
 # Gunn Mathematics Competition
 
-Welcome to Gunn High School's first annual mathematics competition! It will be held **virtually** sometime in February.
+Welcome to Gunn High School's first annual mathematics competition! It will be held sometime in February.
+
+**We have yet to decide** whether it will be held virtually or in-person. If it were in-person, it would be held on Gunn's campus and in-person attendance would be restricted to Gunn students. (If it were in-person, an online option may also be available if enough interest is expressed from non-Gunn students).
 
 ## About
 
