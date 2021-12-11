@@ -69,7 +69,7 @@
         </a>
         <div class="flex flex-row md:my-auto mx-auto my-3 md:mr-3 md:ml-16 " id="social-icons">
           <a target="_blank" class="mx-2 my-auto" href="https://gunnmathcircle.org"><home-icon class="h-5 w-auto" /></a>
-          <a target="_blank" class="my-auto " href='http://discord.gg/4HZtKwP'>
+          <a target="_blank" class="my-auto " href='https://discord.gg/wT3hFRbrzq'>
             <img class="w-auto dark:hidden mx-2 h-6" src="/Discord-Logo-Black.png" />
             <img class="w-auto hidden dark:inline-block mx-2 h-6" src="/Discord-Logo-White.png" />
           </a>
