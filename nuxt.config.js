@@ -54,7 +54,7 @@ export default {
       ogHost:'https://compete.gunnmathcircle.org',
       twitterCard:'summary_large_image',
       ogImage:{
-        path:'/embed-photo-large.png',
+        path:'/embed-photo-large.png?dec11',
         width:'1200',
         height:'675',
         type:'image/png'
