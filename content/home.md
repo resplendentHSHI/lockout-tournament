@@ -1,10 +1,10 @@
 ---
 title: Welcome!
-description: "Gunn's first annual mathematics competition, hosted by dedicated high shcool students."
+description: "Gunn's first annual mathematics competition, hosted by dedicated high school students."
 
 ---
 
-Welcome to Gunn High School's first annual mathematics competition! It will be held sometime in February.
+Welcome to Gunn High School's first annual mathematics competition! It will be held on the tentative date of March 5th, 2022.
 
 **We have yet to decide** whether it will be held virtually or in-person. If it were in-person, it would be held on Gunn's campus and in-person attendance would be restricted to Gunn students. (If it were in-person, an online option may also be available if enough interest is expressed from non-Gunn students).
 
