@@ -30,8 +30,9 @@ The Individual and Team Rounds are fairly standard. However, in the Guts Round, 
 
  ## Staff
 A huge thanks to our dedicated staff, who are working to put together problems and logistics!
- 
 
 ## Sponsors
 
-The PTSA of the Palo Alto Unified School District has generously sponsored our competition.
+[![Wolfram Alpha](../static/wolfram.png)](https://www.wolframalpha.com/)
+
+The PTSA of the Palo Alto Unified School District has also generously sponsored our competition.
