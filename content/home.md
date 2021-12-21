@@ -34,5 +34,6 @@ A huge thanks to our dedicated staff, who are working to put together problems a
 ## Sponsors
 
 [![Wolfram Alpha](/wolfram.png)](https://www.wolframalpha.com/)
+[![Jane Street](/janestreet.png)](https://www.janestreet.com/)
 
 The PTSA of the Palo Alto Unified School District has also generously sponsored our competition.
