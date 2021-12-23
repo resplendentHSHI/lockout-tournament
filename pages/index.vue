@@ -27,5 +27,12 @@ export default {
 </script>
 
 <style>
-
+h2::before {
+  display: block;
+  content: " ";
+  margin-top: -104px;
+  height: 104px;
+  visibility: hidden;
+  pointer-events: none;
+}
 </style>
