@@ -3,7 +3,7 @@
     <h1 class="">{{doc.title}}</h1>
     <nuxt-content  :document="doc" />
     <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3" >
-      <a :href="sponsor.link" class="block bg-white dark:bg-gray-700 rounded-md p-8" v-for="sponsor of sponsors">
+      <a :href="sponsor.link" class="block bg-white dark:bg-gray-700 rounded-md p-8" :key="sponsor.name" v-for="sponsor of sponsors">
         <h1 class="text-red font-lg font-semibold tracking-wide">{{sponsor.name}}</h1>
         <img class="h-24 w-auto" :src="sponsor.path"></img>
       </a>
@@ -15,7 +15,7 @@
 export default {
   async asyncData({$content}){
     const doc = await $content('home').fetch();
-    const sponsors = await $content('sponsors').fetch();
+    const {sponsors} = await $content('sponsors').fetch();
     return {doc, sponsors};
   }
 
