@@ -5,8 +5,8 @@
     <nuxt-content  :document="doc" />
   </div>
   <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 mx-auto px-5 max-w-sm  sm:max-w-xl md:max-w-5xl" >
-      <a :href="sponsor.link" class="block mx-3 my-3 bg-white dark:bg-gray-700 rounded-md p-6" :key="sponsor.name" v-for="sponsor of sponsors">
-        <h1 class="text-red font-lg font-semibold tracking-wide">{{sponsor.name}}</h1>
+      <a :href="sponsor.link" class="block mx-3 my-3 bg-white dark:bg-gray-600 rounded-md p-6" :key="sponsor.name" v-for="sponsor of sponsors">
+        <h1 class="text-red mb-2 font-lg font-semibold tracking-wide">{{sponsor.name}}</h1>
         <img class="max-h-24 h-auto w-auto" :src="sponsor.path"></img>
       </a>
     </div>
