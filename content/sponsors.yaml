@@ -1,7 +1,9 @@
----
-Wolfram Alpha: 
+- name: Wolfram Alpha
   path: /wolfram.png
   link: https://www.wolframalpha.com/
-Jane Street: 
+- name: Jane Street
   path: /janestreet.png
   link: https://www.janestreet.com/
+- name: PTSA of PAUSD
+  path: /ptsa.jpeg
+  link: https://gunnpaloaltopta.org/
