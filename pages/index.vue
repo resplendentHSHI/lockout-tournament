@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="mb-10">
   <div class="prose dark:prose-dark prose-red mx-auto px-5 max-w-sm  sm:max-w-xl md:max-w-5xl">
     <h1 class="">{{doc.title}}</h1>
     <nuxt-content  :document="doc" />
