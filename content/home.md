@@ -4,9 +4,9 @@ description: "Gunn's first annual mathematics competition, hosted by dedicated h
 
 ---
 
-Welcome to Gunn High School's first annual mathematics competition! It will be held on the tentative date of March 5th, 2022.
+Welcome to Gunn High School's first annual mathematics competition! It will be held on the date of March 5th, 2022.
 
-**We have yet to decide** whether it will be held virtually or in-person. If it were in-person, it would be held on Gunn's campus and in-person attendance would be restricted to Gunn students. (If it were in-person, an online option may also be available if enough interest is expressed from non-Gunn students).
+Due to district guidelines, GMC will be held **virtually** for all participants. All participants in the **USA** are eligible for prizes, which will be awarded to the top teams and individuals.
 
 ## About
 
@@ -18,18 +18,37 @@ Students will compete in **teams of 4**. (Teams of 2 or 3 are ok as well, but th
 
 ## Format
 
-The format is loosely as follows (it's the same for both divisions A and B):
+The format is *tentatively* as follows (the time limit is the same for both divisions A and B):
 
-| Round | Time Limit | Notes |
-| --- | --- | --- |
-| Individual Round | 60 minutes | 10 problems |
-| Team Round | 60 minutes | 15 problems |
-| Guts Round | 70 minutes | 3x8 problems |
+| Round | Time Limit | A # of Problems | B # of Problems | Notes |
+| --- | --- | --- | --- | --- |
+| Individual Round | 60 minutes | 10 | 15 | |
+| Team Round | 60 minutes | 15 | 15 | |
+| Guts Round | 70 minutes | 3x8 | 3x8 | Optional for B Div. |
+| Estimathon | 30 minutes | 10 | 10 | Optional |
 
-The Individual and Team Rounds are fairly standard. However, in the Guts Round, problems are released in sets of 3. Students must submit answers to the problems in each set before moving on to the next set.
+The Individual and Team Rounds are fairly standard. In the Guts Round, problems are released in sets of 3. Students must submit answers to the problems in each set before moving on to the next set. In the Estimathon, students will estimate the answer to questions and will be awarded points based on how close they are to the actual answer.
 
- ## Staff
+## Difficulty
+
+For Div. A, the difficulty of the problems will range from early AMC 10 to mid or late AIME. For Div. B, the difficulty of the problems will range from AMC 8 to late AMC 10. In general, the Guts and Team rounds will be more difficult than the Individual round, as participants are working as a team.
+
+## Schedule
+
+The competition will *tentatively* run from 9:30 AM to 16:00 PM, with a 15 minute passing period between events. **All times are in PST.**
+
+| Event | Start Time | Duration (in mins) | End Time |
+| --- | --- | --- | --- |
+| Opening Ceremony | 9:30 | 15 | 9:45 |
+| Individual Round | 10:00 | 60 | 11:00 |
+| Lunch | 11:00 | 60 | 12:00 |
+| Team Round | 12:00 | 60 | 13:00 |
+| Guts Round | 13:15 | 70 | 14:25 |
+| Estimathon | 14:40 | 30 | 15:10 |
+| Awards Ceremony | 15:25 | 30 | 15:55 |
+
+## Staff
+
 A huge thanks to our dedicated staff, who are working to put together problems and logistics!
 
 ## Sponsors
-
