@@ -5,7 +5,7 @@
         sticky
         top-0
         p-3
-        backdrop-filter backdrop-blur-md
+        backdrop-filter backdrop-blur-sm
         bg-graph bg-opacity-30
         dark:bg-opacity-30
       
