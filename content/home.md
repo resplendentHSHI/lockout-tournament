@@ -8,6 +8,11 @@ Welcome to Gunn High School's first annual mathematics competition! It will be h
 
 Due to district guidelines, GMC will be held **virtually** for all participants. All participants in the **USA** are eligible for prizes, which will be awarded to the top teams and individuals.
 
+## Registration
+
+Registration is now open at <https://bit.ly/GMC2022>.
+Also, join the Discord at <https://discord.gg/wT3hFRbrzq>!
+
 ## About
 
 The GMC will be held by dedicated Gunn students from Gunn Math Circle. We invite all aspiring mathematicians of all skill levels!
