@@ -10,8 +10,9 @@ Due to district guidelines, GMC will be held **virtually** for all participants.
 
 ## Registration
 
-Registration is now open at <https://bit.ly/GMC2022>.
-Also, join the Discord at <https://discord.gg/wT3hFRbrzq>!
+Registration is still open at <https://bit.ly/GMC2022>!
+
+Also, more detailed and up-to-date information on GMC specifics can be found at our manual, <https://bit.ly/GMC2022Manual>.
 
 ## About
 
@@ -23,14 +24,14 @@ Students will compete in **teams of 4**. (Teams of 2 or 3 are ok as well, but th
 
 ## Format
 
-The format is *tentatively* as follows (the time limit is the same for both divisions A and B):
+The format of the tests is listed below. Importantly, **there is a 5 minute grace period after each test for submissions**, so the time limit is technically 5 minutes more than what is listed below.
 
-| Round | Time Limit | A # of Problems | B # of Problems | Notes |
-| --- | --- | --- | --- | --- |
-| Individual Round | 60 minutes | 10 | 15 | |
-| Team Round | 60 minutes | 15 | 15 | |
-| Guts Round | 70 minutes | 3x8 | 3x8 | Optional for B Div. |
-| Estimathon | 30 minutes | 10 | 10 | Optional |
+| Round | Time Limit | # of Problems | Notes |
+| --- | --- | --- | --- | 
+| Individual Round | 55 (+5) minutes | 10  |
+| Team Round | 60 (+5) minutes | 15  |
+| Guts Round | 65 (+5) minutes | 3x8 | Optional for B Div. |
+| Estimathon | 30 minutes | 10 | Optional |
 
 The Individual and Team Rounds are fairly standard. In the Guts Round, problems are released in sets of 3. Students must submit answers to the problems in each set before moving on to the next set. In the Estimathon, students will estimate the answer to questions and will be awarded points based on how close they are to the actual answer.
 
@@ -40,17 +41,19 @@ For Div. A, the difficulty of the problems will range from early AMC 10 to mid o
 
 ## Schedule
 
-The competition will *tentatively* run from 9:30 AM to 16:00 PM, with a 15 minute passing period between events. **All times are in PST.**
+The competition will run from 9:30 AM to 16:00 PM, with a 10 minute passing period between events. **All times are in PST.**
 
 | Event | Start Time | Duration (in mins) | End Time |
 | --- | --- | --- | --- |
 | Opening Ceremony | 9:30 | 15 | 9:45 |
-| Individual Round | 10:00 | 60 | 11:00 |
+| Individual Round | 9:55 | 55 (+10)* | 11:00 |
 | Lunch | 11:00 | 60 | 12:00 |
-| Team Round | 12:00 | 60 | 13:00 |
-| Guts Round | 13:15 | 70 | 14:25 |
-| Estimathon | 14:40 | 30 | 15:10 |
-| Awards Ceremony | 15:25 | 30 | 15:55 |
+| Team Round | 12:00 | 60 (+10) | 13:10 |
+| Guts Round | 13:20 | 65 (+10) | 14:35 |
+| Estimathon | 14:45 | 30 | 15:15 |
+| Awards Ceremony | 15:30 | 30 | 16:00 |
+
+*For each test, we've allocated 5 minutes of set-up time, and also a 5 minute grace period for submissions at the end.
 
 ## Staff
 
