@@ -10,7 +10,7 @@ Due to district guidelines, GMC will be held **virtually** for all participants.
 
 ## Registration
 
-Registration is still open at <https://bit.ly/GMC2022>!
+Registration is still open at <https://bit.ly/GMC2022>, and join the [Discord](https://discord.gg/3jsRqhahJW)!
 
 Also, more detailed and up-to-date information on GMC specifics can be found at our manual, <https://bit.ly/GMC2022Manual>.
 
