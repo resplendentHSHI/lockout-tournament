@@ -46,14 +46,14 @@ The competition will run from 9:30 AM to 16:00 PM, with a 10 minute passing peri
 | Event | Start Time | Duration (in mins) | End Time |
 | --- | --- | --- | --- |
 | Opening Ceremony | 9:30 | 15 | 9:45 |
-| Individual Round | 9:55 | 60 (+5) | 11:00 |
+| Individual Round | 9:55 | 60 (+5)* | 11:00 |
 | Lunch | 11:00 | 60 | 12:00 |
 | Team Round | 12:00 | 60 (+5) | 13:10 |
 | Guts Round | 13:20 | 70 (+5) | 14:35 |
 | Estimathon | 14:45 | 30 | 15:15 |
 | Awards Ceremony | 15:30 | 30 | 16:00 |
 
-*For each test, we've allocated 5 minutes before to get set-up.
+*For each test, we've allocated 5 minutes to get set-up and to read instructions.
 
 ## Staff
 
