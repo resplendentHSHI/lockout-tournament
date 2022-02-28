@@ -32,6 +32,7 @@ The format of the tests is listed below.
 | Team Round | 60 minutes | 15  |
 | Guts Round | 70 minutes | 3x8 | Optional for B Div. |
 | Estimathon | 30 minutes | 10 | Optional |
+| Tiebreaker Round | 15 minutes | 3 | For Qualifiers |
 
 The Individual and Team Rounds are fairly standard. In the Guts Round, problems are released in sets of 3. Students must submit answers to the problems in each set before moving on to the next set. In the Estimathon, students will estimate the answer to questions and will be awarded points based on how close they are to the actual answer.
 
@@ -50,7 +51,7 @@ The competition will run from 9:30 AM to 16:00 PM, with a 10 minute passing peri
 | Lunch | 11:00 | 60 | 12:00 |
 | Team Round | 12:00 | 60 (+5) | 13:05 |
 | Guts Round | 13:15 | 70 (+5) | 14:30 |
-| Estimathon | 14:45 | 30 | 15:15 |
+| Estimathon / Tiebreaks | 14:45 | 30 | 15:15 |
 | Awards Ceremony | 15:30 | 30 | 16:00 |
 
 *For each test, we've allocated 5 minutes to get set-up and to read instructions.
