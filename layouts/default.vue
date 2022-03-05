@@ -62,8 +62,8 @@
             hover:text-red hover:underline
           "
           :key="link"
-          :href="'/#' + link"
-          v-for="link of ['home', 'about', 'format', 'staff', 'sponsors']"
+          :href="'/#' + (link==='home'?'':link)"
+          v-for="link of ['home', 'registration', 'about', 'format', 'schedule', 'sponsors']"
         >
           {{ link }}
         </a>
