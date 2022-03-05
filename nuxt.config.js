@@ -49,7 +49,7 @@ export default {
     },
     meta:{
       name:'Gunn Math Competition',
-      description:'Gunn\'s first annual mathematics competition, hosted by dedicated high shcool students.',
+      description:'Gunn\'s first annual mathematics competition, hosted by dedicated high school students.',
       theme_color:'#BF1A19',
       ogHost:'https://compete.gunnmathcircle.org',
       twitterCard:'summary_large_image',
