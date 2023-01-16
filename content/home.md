@@ -10,7 +10,7 @@ GMC will be held **in person** for the first time this year, for all participant
 
 ## Registration
 
-Registration is still open at <https://bit.ly/GMC2023>, and join the [Discord](https://discord.gg/3jsRqhahJW)!
+Registration is still open at <https://bit.ly/GMC2023>, and join the [Discord](https://discord.gg/3jsRqhahJW)! Thanks to our generous sponsors, this competition is once again free for all participants!
 
 Also, more detailed and up-to-date information on GMC specifics can be found at our manual, which will be posted **closer to the competition date**. Most of the round information and logistics will be similar to last year's competition (except the in person format), which can be referenced at <https://bit.ly/GMC2022Manual>.
 
