@@ -1,18 +1,18 @@
 ---
 title: Welcome!
-description: "Gunn's first annual mathematics competition, hosted by dedicated high school students."
+description: "Gunn's second annual mathematics competition, hosted by dedicated high school students."
 
 ---
 
-Welcome to Gunn High School's first annual mathematics competition! It will be held on the date of March 5th, 2022.
+Welcome to Gunn High School's annual mathematics competition! It will be held on the date of March 4th, 2023.
 
-Due to district guidelines, GMC will be held **virtually** for all participants. All participants in the **USA** are eligible for prizes, which will be awarded to the top teams and individuals.
+GMC will be held **in person** for the first time this year, for all participants! All participants in nearby middle and high schools, especially those in PAUSD, are encouraged to compete for prizes!
 
 ## Registration
 
-Registration is still open at <https://bit.ly/GMC2022>, and join the [Discord](https://discord.gg/3jsRqhahJW)!
+Registration is still open at <https://bit.ly/GMC2023>, and join the [Discord](https://discord.gg/3jsRqhahJW)!
 
-Also, more detailed and up-to-date information on GMC specifics can be found at our manual, <https://bit.ly/GMC2022Manual>.
+Also, more detailed and up-to-date information on GMC specifics can be found at our manual, which will be posted **closer to the competition date**. Most of the round information and logistics will be similar to last year's competition (except the in person format), which can be referenced at <https://bit.ly/GMC2022Manual>.
 
 ## About
 
@@ -20,7 +20,7 @@ The GMC will be held by dedicated Gunn students from Gunn Math Circle. We invite
 
 The competition will have **2 divisions**, A and B, so that competitors' skill levels are well matched. Division B will be for those who are relatively new to competition math and are generally taking a math class before calculus. Division A will be for those who are familiar with competition math, and will thus have harder problems.
 
-Students will compete in **teams of 4**. (Teams of 2 or 3 are ok as well, but they will be at a disadvantage during the team rounds as they have fewer people.) Students may compete individually, but we strongly encourage competing in teams to get the most out of the competition.
+Students will compete in **teams of 4**. (Teams of 2 or 3 are okay as well, but they will be at a disadvantage during the team rounds as they have fewer people.) Students may compete individually, but we strongly encourage competing in teams to get the most out of the competition.
 
 ## Format
 
@@ -31,10 +31,9 @@ The format of the tests is listed below.
 | Individual Round | 60 minutes | 10  |
 | Team Round | 60 minutes | 15  |
 | Guts Round | 70 minutes | 3x8 | Optional for B Div. |
-| Estimathon | 30 minutes | 10 | Optional |
 | Tiebreaker Round | 15 minutes | 3 | For Qualifiers |
 
-The Individual and Team Rounds are fairly standard. In the Guts Round, problems are released in sets of 3. Students must submit answers to the problems in each set before moving on to the next set. In the Estimathon, students will estimate the answer to questions and will be awarded points based on how close they are to the actual answer.
+The Individual and Team Rounds are fairly standard. In the Guts Round, problems are released in sets of 3. Students must submit answers to the problems in each set before moving on to the next set. This year, we will have multiple activities in the afternoon for students to choose from, including an esimathon. More details about the exact activities will be announced soon!
 
 ## Difficulty
 
@@ -42,19 +41,19 @@ For Div. A, the difficulty of the problems will range from early AMC 10 to mid o
 
 ## Schedule
 
-The competition will run from 9:30 AM to 16:00 PM, with a 10 minute passing period between events. **All times are in PST.**
+The competition will run from 8:30 AM to 16:30 PM. **All times are in PST.**
 
 | Event | Start Time | Duration (in mins) | End Time |
 | --- | --- | --- | --- |
-| Opening Ceremony | 9:30 | 15 | 9:45 |
-| Individual Round | 9:55 | 60 (+5)* | 11:00 |
-| Lunch | 11:00 | 60 | 12:00 |
-| Team Round | 12:00 | 60 (+5) | 13:05 |
-| Guts Round | 13:15 | 70 (+5) | 14:30 |
-| Estimathon / Tiebreaks | 14:45 | 30 | 15:15 |
-| Awards Ceremony | 15:30 | 30 | 16:00 |
+| Registration | 8:30 | 45 | 9:15 |
+| Individual Round | 9:30 | 60 | 10:40 |
+| Team Round | 10:40 | 60 | 12:00 |
+| Lunch | 12:10 | 60 | 13:00 |
+| Guts Round | 13:00 | 70 | 14:20 |
+| Activities / Tiebreaks | 14:30 | 75 | 15:45 |
+| Awards Ceremony | 16:00 | 30 | 16:30 |
 
-*For each test, we've allocated 5 minutes to get set-up and to read instructions.
+*For each test, we've allocated some extra time to get set-up and to read instructions.
 
 ## Staff
 
