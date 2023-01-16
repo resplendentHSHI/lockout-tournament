@@ -30,7 +30,7 @@ The format of the tests is listed below.
 | --- | --- | --- | --- | 
 | Individual Round | 60 minutes | 10  |
 | Team Round | 60 minutes | 15  |
-| Guts Round | 70 minutes | 3x8 | Optional for B Div. |
+| Guts Round | 70 minutes | 3x8 |
 | Tiebreaker Round | 15 minutes | 3 | For Qualifiers |
 
 The Individual and Team Rounds are fairly standard. In the Guts Round, problems are released in sets of 3. Students must submit answers to the problems in each set before moving on to the next set. This year, we will have multiple activities in the afternoon for students to choose from, including an esimathon. More details about the exact activities will be announced soon!
