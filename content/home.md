@@ -59,4 +59,4 @@ The competition will run from 8:30 AM to 16:30 PM. **All times are in PST.**
 
 A huge thanks to our dedicated staff, who are working to put together problems and logistics!
 
-## Sponsors
+## Sponsors (for 2022)
