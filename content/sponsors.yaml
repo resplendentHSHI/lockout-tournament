@@ -15,14 +15,6 @@ sponsors:
     light_image: /aops.png
     dark_image: /aops.png
     link: https://artofproblemsolving.com/
-  - name: DRW
-    light_image: /drw.png
-    dark_image: /drw.png
-    link: https://www.drw.com/
-  - name: Contest Dojo
-    light_image: /contestdojo.png
-    dark_image: /contestdojo.png
-    link: https://contestdojo.com/
   - name: Thinkfund
     light_image: /thinkfund.png
     dark_image: /thinkfund.png
