@@ -24,6 +24,6 @@ sponsors:
     dark_image: /drw.png
     link: https://drw.com/
   - name: Leangap
-    light_image: /leangap.png
-    dark_image: /leangap.png
+    light_image: /leangap.svg
+    dark_image: /leangap.svg
     link: https://www.leangap.org/
