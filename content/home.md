@@ -4,21 +4,13 @@ description: "Gunn's second annual mathematics competition, hosted by dedicated 
 
 ---
 
-Welcome to Gunn High School's annual mathematics competition! It will be held on the date of March 4th, 2023.
-
-GMC will be held **in person** for the first time this year, for all participants! All participants in nearby middle and high schools, especially those in PAUSD, are encouraged to compete for prizes!
-
-## Registration
-
-Registration is still open at <https://bit.ly/GMC2023>, and join the [Discord](https://discord.gg/3jsRqhahJW)! Thanks to our generous sponsors, this competition is once again free for all participants!
-
-Also, more detailed and up-to-date information on GMC specifics can be found at our manual, which will be posted **closer to the competition date**. Most of the round information and logistics will be similar to last year's competition (except the in person format), which can be referenced at <https://bit.ly/GMC2022Manual>.
+Welcome to Gunn High School's annual mathematics competition! It was held on the date of March 4th, 2023.
 
 ## About
 
-The GMC will be held by dedicated Gunn students from Gunn Math Circle. We invite all aspiring mathematicians of all skill levels!
+The GMC was held by dedicated Gunn students from Gunn Math Circle.
 
-The competition will have **2 divisions**, A and B, so that competitors' skill levels are well matched. Division B will be for those who are relatively new to competition math and are generally taking a math class before calculus. Division A will be for those who are familiar with competition math, and will thus have harder problems.
+The competition has **2 divisions**, A and B, so that competitors' skill levels are well matched. Division B will be for those who are relatively new to competition math and are generally taking a math class before calculus. Division A will be for those who are familiar with competition math, and will thus have harder problems.
 
 Students will compete in **teams of 4**. (Teams of 2 or 3 are okay as well, but they will be at a disadvantage during the team rounds as they have fewer people.) Students may compete individually, but we strongly encourage competing in teams to get the most out of the competition.
 
@@ -57,6 +49,6 @@ The competition will run from 8:30 AM to 16:30 PM. **All times are in PST.**
 
 ## Staff
 
-A huge thanks to our dedicated staff, who are working to put together problems and logistics!
+A huge thanks to our dedicated staff, who wrote problems and handled logistics!
 
 ## 2023 Competition Sponsors
