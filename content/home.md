@@ -24,9 +24,9 @@ The tournament will be played on Saturday, April 29th. All times are in PDT (Pac
 | Event | Start Time | Duration (in mins) | End Time |
 | --- | --- | --- | --- |
 | Registration | 9:30 | 30 | 10:00 |
-| Group Stage | 10:00 | 90 | 11:30 |
+| Early Stages | 10:00 | 90 | 11:30 |
 | Lunch | 11:30 | 60 | 12:30 |
-| Knockout Round | 12:30 | 90 | 2:00 |
+| Knockout Stage | 12:30 | 90 | 2:00 |
 | Awards Ceremony | 2:00 | 30 | 2:30 |
 
 
