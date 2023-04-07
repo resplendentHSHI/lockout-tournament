@@ -1,4 +1,4 @@
-# gunn-math-comp
+# Lockout Tournament
 
 ## Build Setup
 
