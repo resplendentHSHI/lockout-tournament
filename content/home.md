@@ -23,11 +23,11 @@ The tournament will be played on Saturday, April 29th. All times are in PDT (Pac
 
 | Event | Start Time | Duration (in mins) | End Time |
 | --- | --- | --- | --- |
-| Registration | 9:30 | 30 | 10:00 |
-| Early Stages | 10:00 | 90 | 11:30 |
-| Lunch | 11:30 | 60 | 12:30 |
-| Knockout Stage | 12:30 | 90 | 2:00 |
-| Awards Ceremony | 2:00 | 30 | 2:30 |
+| Registration | 10:30 | 30 | 11:00 |
+| Early Stages | 11:00 | 90 | 12:30 |
+| Lunch | 12:30 | 60 | 1:30 |
+| Knockout Stage | 1:30 | 90 | 3:00 |
+| Awards Ceremony | 3:00 | 30 | 3:30 |
 
 
 ## 2023 Competition Sponsors
