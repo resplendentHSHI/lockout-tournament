@@ -19,7 +19,15 @@ Participants will be able to choose between a Novice and Advanced division to pa
 
 ## Schedule
 
-The tournament will be played on Saturday, April 29th.
+The tournament will be played on Saturday, April 29th. All times are in PDT (Pacific Daylight Time).
+
+| Event | Start Time | Duration (in mins) | End Time |
+| --- | --- | --- | --- |
+| Registration | 9:30 | 30 | 10:00 |
+| Group Stage | 10:00 | 90 | 11:30 |
+| Lunch | 11:30 | 60 | 12:30 |
+| Knockout Round | 12:30 | 90 | 2:00 |
+| Awards Ceremony | 2:00 | 30 | 2:30 |
 
 
 ## 2023 Competition Sponsors
