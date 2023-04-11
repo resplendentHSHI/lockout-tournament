@@ -52,7 +52,7 @@ export default {
       name:'Lockout Tournament',
       description:'A 1v1 competitive programming tournament hosted by multiple high schools.',
       theme_color:'#BF1A19',
-      ogHost:'https://compete.gunnmathcircle.org',
+      ogHost:'https://lockout-tournament.vercel.app',
       twitterCard:'summary_large_image',
       ogImage:{
         path:'/embed-photo-large.png?dec11',
