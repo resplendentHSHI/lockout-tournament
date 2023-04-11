@@ -6,7 +6,7 @@ export default {
   },
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'Gunn Math Competition',
+    title: 'Lockout Tournament',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -49,8 +49,8 @@ export default {
       lang: 'en'
     },
     meta:{
-      name:'Gunn Math Competition',
-      description:'Gunn\'s first annual mathematics competition, hosted by dedicated high school students.',
+      name:'Lockout Tournament',
+      description:'A 1v1 competitive programming tournament hosted by multiple high schools.',
       theme_color:'#BF1A19',
       ogHost:'https://compete.gunnmathcircle.org',
       twitterCard:'summary_large_image',
