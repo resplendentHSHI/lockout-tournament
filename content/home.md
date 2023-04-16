@@ -30,4 +30,4 @@ The tournament will be played on Saturday, April 29th. All times are in PDT (Pac
 | Awards Ceremony | 3:00 PM | 30 | 3:30 PM |
 
 
-## 2023 Competition Sponsors
+## Sponsors
