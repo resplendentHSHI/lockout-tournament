@@ -6,8 +6,8 @@
         top-0
         p-3
         backdrop-filter backdrop-blur-sm
-        bg-graph bg-opacity-10
-        dark:bg-opacity-10
+        bg-graph bg-opacity-50
+        dark:bg-opacity-50
 
         flex flex-col
         md:flex-row
