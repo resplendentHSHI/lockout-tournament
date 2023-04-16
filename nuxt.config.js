@@ -10,7 +10,7 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'Compete in Gunn High School\'s first annual competition!' }
+      { hid: 'description', name: 'description', content: 'Compete in a 1v1 competitive programming tournament hosted by multiple high schools.' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/icon.png' }
