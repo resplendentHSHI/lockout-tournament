@@ -27,7 +27,7 @@
             stroke-current
           "
         />
-        <img class="h-8 mx-auto my-auto md:mr-3 md:ml-2 w-8" src="/icon.png" />
+        <img class="h-8 mx-auto my-auto md:mr-3 md:ml-2 w-8" src="/icon.png" alt="Lockout logo" />
         <span class="text-red my-2 block text-2xl font-bold tracking-wide"
           >Lockout Tournament</span
         >
@@ -69,12 +69,12 @@
         </a>
         <div class="flex flex-row md:my-auto mx-auto my-3 md:mr-3 md:ml-16 " id="social-icons">
           <a target="_blank" class="my-auto " href='https://discord.gg/SUewFaBCb2'>
-            <img class="w-auto dark:hidden mx-2 h-6" src="/Discord-Logo-Black.png" />
-            <img class="w-auto hidden dark:inline-block mx-2 h-6" src="/Discord-Logo-White.png" />
+            <img class="w-auto dark:hidden mx-2 h-6" src="/Discord-Logo-Black.png" alt="Discord logo" />
+            <img class="w-auto hidden dark:inline-block mx-2 h-6" src="/Discord-Logo-White.png" alt="Discord logo" />
           </a>
           <a target="_blank" class="mb-1 " href="https://github.com/ezraft/lockout-tournament">
-            <img class="w-auto my-auto dark:hidden mx-2 h-5" src="/GitHub-Mark-120px-plus.png" />
-            <img class="w-auto hidden my-auto dark:inline-block mx-2 h-5" src="/GitHub-Mark-Light-120px-plus.png" />
+            <img class="w-auto my-auto dark:hidden mx-2 h-5" src="/GitHub-Mark-120px-plus.png" alt="GitHub logo" />
+            <img class="w-auto hidden my-auto dark:inline-block mx-2 h-5" src="/GitHub-Mark-Light-120px-plus.png" alt="GitHub logo" />
           </a>
         </div>
       </div>
