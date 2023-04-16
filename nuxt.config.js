@@ -55,7 +55,7 @@ export default {
       ogHost:'https://lockout-tournament.vercel.app',
       twitterCard:'summary_large_image',
       ogImage:{
-        path:'/embed-photo-large.png?dec11',
+        path:'/icon.png',
         width:'1200',
         height:'675',
         type:'image/png'
