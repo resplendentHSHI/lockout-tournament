@@ -81,4 +81,9 @@ module.exports = {
   plugins: [
     require('@tailwindcss/typography')
   ],
+
+  // https://stackoverflow.com/questions/69692842/error-message-error0308010cdigital-envelope-routinesunsupported/73465262#73465262
+  output: {
+    hashFunction: "xxhash64"
+  }
 }
