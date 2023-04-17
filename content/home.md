@@ -22,7 +22,7 @@ bracket will be roughly USACO Bronze/Silver level, whereas the Advanced division
 
 ## Schedule
 
-The tournament will be played on Saturday, April 29th. All times are in PDT (Pacific Daylight Time).
+The tournament will be played on Saturday, April 29th, through our Discord server. All times are in PDT (Pacific Daylight Time).
 
 | Event           | Start Time | Duration (in mins) | End Time |
 |-----------------|------------|--------------------|----------|
