@@ -7,7 +7,7 @@ description: "1v1 Competitive Programming Tournament for High School Students ac
 ## About
 
 Lockout is a form of 1v1 competitive programming, in which participants race to solve a series of problems before each
-other.
+other. The Lockout Tournament is hosted by students from various Competitive Programming clubs across the United States.
 
 ## Format
 
