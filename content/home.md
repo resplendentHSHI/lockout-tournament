@@ -17,8 +17,7 @@ minutes long, and will consist of 5 problems, with scoring and difficulty varyin
 
 ## Difficulty
 
-Participants will be able to choose between a Novice and Advanced division to participate in. The problems in the Novice
-bracket will be roughly USACO Bronze/Silver level, whereas the Advanced division will cover Gold/Platinum.
+All participants will participate in one division. Problems in earlier rounds will be USACO Bronze/Silver level, and will get more difficult as the tournament progresses.
 
 ## Schedule
 
