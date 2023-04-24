@@ -23,7 +23,7 @@ All participants will participate in one division. Problems in earlier rounds wi
 
 The tournament will be played on Saturday, April 29th, through our Discord server. All times are in PDT (Pacific Daylight Time).
 
-## Register
+## Registration
 
 Registration will happen through our discord server. You can join the discord server here: https://discord.gg/SUewFaBCb2
 
