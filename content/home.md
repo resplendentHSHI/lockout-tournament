@@ -23,10 +23,6 @@ All participants will participate in one division. Problems in earlier rounds wi
 
 The tournament will be played on Saturday, April 29th, through our Discord server. All times are in PDT (Pacific Daylight Time).
 
-## Registration
-
-Registration will happen through our discord server. You can join the discord server here: https://discord.gg/SUewFaBCb2
-
 | Event           | Start Time | Duration (in mins) | End Time |
 |-----------------|------------|--------------------|----------|
 | Registration    | 10:30 AM   | 30                 | 11:00 AM |
@@ -34,5 +30,10 @@ Registration will happen through our discord server. You can join the discord se
 | Lunch           | 12:30 PM   | 60                 | 1:30 PM  |
 | Knockout Stage  | 1:30 PM    | 90                 | 3:00 PM  |
 | Awards Ceremony | 3:00 PM    | 30                 | 3:30 PM  |
+
+## Registration
+
+Registration will happen through our discord server. You can join the discord server here: https://discord.gg/SUewFaBCb2
+
 
 ## Sponsors
