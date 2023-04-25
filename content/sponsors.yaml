@@ -3,3 +3,7 @@ sponsors:
     light_image: /wolfram.png
     dark_image: /wolfram.png
     link: https://www.wolframalpha.com/
+  - name: Recursive Dragon
+    light_image: /recursivedragon.png
+    dark_image: /recursivedragon.png
+    link: https://www.recursivedragon.com/
