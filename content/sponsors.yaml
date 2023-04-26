@@ -7,3 +7,7 @@ sponsors:
     light_image: /recursivedragon.png
     dark_image: /recursivedragon.png
     link: https://www.recursivedragon.com/
+  - name: Art of Problem Solving
+    light_image: /aops.png
+    dark_image: /aops.png
+    link: https://www.aops.com/
