@@ -35,5 +35,8 @@ The tournament will be played on Saturday, April 29th, through our Discord serve
 
 Registration will happen through our discord server. You can join the discord server here: https://discord.gg/SUewFaBCb2
 
+## Streaming
+
+We are excited to announce that SecondThread will be streaming the tournament on his Youtube channel! You can find it here: https://www.youtube.com/c/SecondThread
 
 ## Sponsors
